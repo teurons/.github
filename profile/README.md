@@ -1,11 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://teurons.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/78248386?s=400&u=652041e8559e1f1d92a711d959beccd30b417186&v=4">
+      <img alt="Teurons Logo" src="https://avatars.githubusercontent.com/u/78248386?s=400&u=652041e8559e1f1d92a711d959beccd30b417186&v=4" width="280"/>
+    </picture>
+  </a>
+</div>
 
-**About Teurons**: Teurons is all about creating software—open-source tools and SaaS apps—to help developers and creators build better apps quickly and efficiently. Sparks like MetaScan and Ohimg are just the start!
+<br/>
 
-**Contribution Guidelines**: Get involved by forking repos, opening issues, or submitting PRs. Check [Teurons.com](https://teurons.com) for more details and feel free to reach out with ideas!
+<p align="center">
+  <a href="https://x.com/teurons">
+    <img src="https://img.shields.io/twitter/follow/teurons?label=X%20Followers&style=social" alt="X Followers">
+  </a>
+  <a href="https://teurons.com">
+    <img src="https://img.shields.io/badge/Docs-Available-blue" alt="Website">
+  </a>
+</p>
 
-**Useful Resources**: Docs and updates are on [Teurons.com](https://teurons.com). Explore the org repos for code and join the conversation on X (@teurons).
+<h1 align="center">Teurons</h1>
 
-**Fun Facts**: The Teurons team (aka me!) fuels up on coffee and code—breakfast of champs! 🌈
+<div align="center">
+Teurons creates software—open-source tools and SaaS apps—to help developers and creators build better apps quickly and efficiently.
+</div>
 
-**Show Your Support**: Star the repos you like to express your support and help Teurons grow! 🌟
+<div align="center">
+<h2 align="center">teuron (tyoo·rawn /ˈtjʊərɒn/)</h2>
+software, open-source or hosted, that enables developers and creators to build better apps quickly and efficiently.
+</div>
